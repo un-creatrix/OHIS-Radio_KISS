@@ -11,10 +11,3 @@ Current Version
 *****************
 Previous Versions
 *****************
-
-.. toctree::
-   :hidden:
-   :maxdepth: 2
-
-   index
-   OHIS Compliance
