@@ -1,16 +1,19 @@
 ========================
 Usage of OHIS Radio KISS
 ========================
+What is the **OHIS Radio KISS Adapter**?
+
+It is an adapter intended to bring any radio no matter its wiring standard or level from a Professional, Ham, DIY, Cheap Chinese, or Crystal with a Wire Hanging out of It; to be compatible with the OHIS connection Std. with very little to no effort other than looking up your radios needed connections and connecting said wires to the OHIS Radio KISS.
 
 ------------
 Installation
 ------------
 
-Wiring
-------
-
 Usage
 -----
+
+Wiring
+------
 
 ---------------
 Board Features
@@ -19,24 +22,24 @@ Board Features
 Accessory Connection Pins
 -------------------------
 
-(JP1) Pin Group #1 - OHIS Connection Nets
+**(JP1) Pin Group #1** - OHIS Connection Nets
 
-+---+------------------------+----+------------------------+
-|PIN| Connection Net         | PIN| Connection Net         |
-+===+========================+====+========================+
-| 1 | OHIS Headphone Left    |  6 | OHIS Microphone Ground |
-+---+------------------------+----+------------------------+
-| 2 | OHIS Headphone Right   |  7 | OHIS PTT (Gnd Trig.)   |
-+---+------------------------+----+------------------------+
-| 3 | Ground                 |  8 | Accesory  5v 500ma (+) |
-+---+------------------------+----+------------------------+
-| 4 | OHIS Headphone Ground  |  9 | OHIS 5v (+)            |
-+---+------------------------+----+------------------------+
-| 5 | OHIS Microphone Line   | 10 | OHIS 5v (-)            |
-+---+------------------------+----+------------------------+
-\ :sup:`*` Pin **9/JP1** is a dedicated power connection supplying 500ma on a resetable fuse for accessories any 5v (-) maybe used in conjection with this point.
++---+------------------------+----+-------------------------+
+|PIN| Connection Net         | PIN| Connection Net          |
++===+========================+====+=========================+
+| 1 | OHIS Headphone Left    |  6 | OHIS Microphone Ground  |
++---+------------------------+----+-------------------------+
+| 2 | OHIS Headphone Right   |  7 | OHIS PTT (Gnd Trig.)    |
++---+------------------------+----+-------------------------+
+| 3 | Ground                 |  8 | Accessory  5v 500ma (+) |
++---+------------------------+----+-------------------------+
+| 4 | OHIS Headphone Ground  |  9 | OHIS 5v (+)             |
++---+------------------------+----+-------------------------+
+| 5 | OHIS Microphone Line   | 10 | OHIS 5v (-)             |
++---+------------------------+----+-------------------------+
+\ :sup:`*` Pin **9/JP1** is a dedicated power connection supplying 500ma on a resettable fuse for accessories any 5v (-) maybe used in conjunction with this point.
 
-(JP2) Pin Group #2 - Radio Connection's, Unregulated Power, and Accessory Indicator Light
+**(JP2) Pin Group #2** - Radio Connection, Unregulated Power, and Accessory Indicator Light
 
 +----+--------------------------+----+----------------------------+
 | PIN| Connection Net           | PIN| Connection Net             |
@@ -45,18 +48,18 @@ Accessory Connection Pins
 +----+--------------------------+----+----------------------------+
 |  2 | Radio Headphone Right    |  7 | Radio PTT Enable           |
 +----+--------------------------+----+----------------------------+
-|  3 | Accesory Indicator LED   |  8 | Radio PTT Ground           |
+|  3 | Accessory Indicator LED   |  8 | Radio PTT Ground          |
 +----+--------------------------+----+----------------------------+
 |  4 | Radio Headphone Ground   |  9 | Unregulated Voltage In (+) |
 +----+--------------------------+----+----------------------------+
 |  5 | Radio Microphone Line    | 10 | Unregulated Voltage In (+) |
 +----+--------------------------+----+----------------------------+
-\ :sup:`*` Pin **3/JP2** offers access to a dedicated indicator LED for accessory boards to give the opportunity of uniformity look between different accessory boards being used.
+\ :sup:`*` Pin **3/JP2** offers access to a dedicated indicator LED for accessory boards to give the opportunity of a uniform look between different accessory boards being used.
 
 Modification Points
 -------------------
 
-Breakable Points which are Either Cuttable/Solderable SMT traces or Removable 0Ω Resistors
+Breakable Points which are Either Cuttable/Solderable SMT traces or Removable 0Ω Resistors
 
 +-----+-------------------------------------------------+
 | CID | Connected Net #1 & Connected Net #2             |
