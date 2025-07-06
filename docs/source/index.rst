@@ -10,10 +10,10 @@ Installation
 ------------
 
 Usage
-`````
+^^^^^
 
 Wiring
-``````
+++++++
 
 Supported Wire Gauges and Ferrules 
 ::::::::::::::::::::::::::::::::::
