@@ -27,8 +27,7 @@ Length Needed for Full Seat - **7.5-8.5 MM**
 
 Connection Points
 -----------------
-
-Connection as Follows with Pins from Left to Right identified 1-5 with the OHIS Plug (RJ45) Oriented away from you.
+PushDown Connection(s) as Follows with Pins from Left to Right identified 1-5 with the OHIS Plug (RJ45) Oriented away from you.
 
 (JP7)\ :sup:`TOP Connector`
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^
