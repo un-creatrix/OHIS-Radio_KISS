@@ -13,13 +13,52 @@ Usage
 -----
 
 ---------------
-Board Feautures
+Board Features
 ---------------
+
+Accessory Connection Pins
+-------------------------
+
+(JP1) Pin Group #1 - OHIS Connection Nets
+
++---+------------------------+----+------------------------+
+|PIN| Connection Net         | PIN| Connection Net         |
++===+========================+====+========================+
+| 1 | OHIS Headphone Left    |  6 | OHIS Microphone Ground |
++---+------------------------+----+------------------------+
+| 2 | OHIS Headphone Right   |  7 | OHIS PTT (Gnd Trig.)   |
++---+------------------------+----+------------------------+
+| 3 | Ground                 |  8 | Accesory  5v 500ma (+) |
++---+------------------------+----+------------------------+
+| 4 | OHIS Headphone Ground  |  9 | OHIS 5v (+)            |
++---+------------------------+----+------------------------+
+| 5 | OHIS Microphone Line   | 10 | OHIS 5v (-)            |
++---+------------------------+----+------------------------+
+
+\ :sup:`*` Accessory Positive Pin 9 on JP1 is a dedicated power connection supplying 500ma on a resetable fuse
+
+(JP2) Pin Group #1 - Radio Connection's, Unregulated Power, and Accessory Indicator Light
+
++----+--------------------------+----+----------------------------+
+| PIN| Connection Net           | PIN| Connection Net             |
++====+==========================+====+============================+
+|  1 | Radio Headphone Left     |  6 | Radio Microphone Ground    |
++----+--------------------------+----+----------------------------+
+|  2 | Radio Headphone Right    |  7 | Radio PTT Enable           |
++----+--------------------------+----+----------------------------+
+|  3 | Accesory Indicator LED\ :sup:`**` |  8 | Radio PTT Ground           |
++----+--------------------------+----+----------------------------+
+|  4 | Radio Headphone Ground   |  9 | Unregulated Voltage In (+) |
++----+--------------------------+----+----------------------------+
+|  5 | Radio Microphone Line    | 10 | Unregulated Voltage In (+) |
++----+--------------------------+----+----------------------------+
+
+\ :sup:`**` 
 
 Modification Points
 -------------------
 
-Breakable Points which are Either Cutable/Solderable SMT traces or Removable 0Ω Resistors
+Breakable Points which are Either Cuttable/Solderable SMT traces or Removable 0Ω Resistors
 
 +-----+-------------------------------------------------+
 | CID | Connected Net #1 & Connected Net #2             |
