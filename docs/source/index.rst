@@ -135,7 +135,7 @@ Breakable Points which are Either Cuttable/Solderable SMT traces or Removable 0Î
 
 .. toctree::
    :hidden:
-   :maxdepth: 3
+   :maxdepth: 2
 
    index
    OHIS Compliance
