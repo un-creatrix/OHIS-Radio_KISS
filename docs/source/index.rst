@@ -14,12 +14,16 @@ Usage
 
 Wiring
 ------
+
 Supported Wire Gauges and Ferrules 
 ``````````````````````````````````
-
+Loose Stripped Wire - **14-20 AWG**
+Snug Ferrule Fit - **16 AWG**
+Ferrule Fit - **18-24 AWG**
 
 Connections
 ```````````
+
 Connection as Follows with Pins from Left to Right identified 1-5 with the OHIS Plug (RJ45) Oriented away from you.
 
 (JP7)\ :sup:`TOP Connector`
