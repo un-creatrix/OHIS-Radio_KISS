@@ -23,3 +23,10 @@ OHIS Line Compliance
 +-------------------+---+
 | Ethernet Ground   | S |
 +-------------------+---+
+
+.. toctree::
+   :hidden:
+   :maxdepth: 3
+
+   index
+   OHIS Compliance
