@@ -37,7 +37,7 @@ Accessory Connection Pins
 +---+------------------------+----+-------------------------+
 | 5 | OHIS Microphone Line   | 10 | OHIS 5v (-)             |
 +---+------------------------+----+-------------------------+
-\ :sup:`*` Pin **9/JP1** is a dedicated power connection supplying 500ma on a resettable fuse for accessories any 5v (-) maybe used in conjunction with this point.
+.. tip:: Pin **9/JP1** is a dedicated power connection supplying 500ma on a resettable fuse for accessories any 5v (-) maybe used in conjunction with this point.
 
 **(JP2) Pin Group #2** - Radio Connection, Unregulated Power, and Accessory Indicator Light
 
@@ -54,7 +54,7 @@ Accessory Connection Pins
 +----+--------------------------+----+----------------------------+
 |  5 | Radio Microphone Line    | 10 | Unregulated Voltage In (+) |
 +----+--------------------------+----+----------------------------+
-\ :sup:`*` Pin **3/JP2** offers access to a dedicated indicator LED for accessory boards to give the opportunity of a uniform look between different accessory boards being used.
+.. tip:: Pin **3/JP2** offers access to a dedicated indicator LED for accessory boards to give the opportunity of a uniform look between different accessory boards being used.
 
 Modification Points
 -------------------
