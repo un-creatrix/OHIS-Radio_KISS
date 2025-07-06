@@ -28,6 +28,5 @@ OHIS Line Compliance
    :hidden:
    :maxdepth: 2
    
-   OHIS Compliance
    index
    designs
