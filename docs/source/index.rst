@@ -34,10 +34,9 @@ Accessory Connection Pins
 +---+------------------------+----+------------------------+
 | 5 | OHIS Microphone Line   | 10 | OHIS 5v (-)            |
 +---+------------------------+----+------------------------+
+\ :sup:`*` Pin **9/JP1** is a dedicated power connection supplying 500ma on a resetable fuse for accessories any 5v (-) maybe used in conjection with this point.
 
-\ :sup:`*` Accessory Positive Pin 9 on JP1 is a dedicated power connection supplying 500ma on a resetable fuse
-
-(JP2) Pin Group #1 - Radio Connection's, Unregulated Power, and Accessory Indicator Light
+(JP2) Pin Group #2 - Radio Connection's, Unregulated Power, and Accessory Indicator Light
 
 +----+--------------------------+----+----------------------------+
 | PIN| Connection Net           | PIN| Connection Net             |
@@ -46,14 +45,13 @@ Accessory Connection Pins
 +----+--------------------------+----+----------------------------+
 |  2 | Radio Headphone Right    |  7 | Radio PTT Enable           |
 +----+--------------------------+----+----------------------------+
-|  3 | Accesory Indicator LED\ :sup:`**` |  8 | Radio PTT Ground           |
+|  3 | Accesory Indicator LED   |  8 | Radio PTT Ground           |
 +----+--------------------------+----+----------------------------+
 |  4 | Radio Headphone Ground   |  9 | Unregulated Voltage In (+) |
 +----+--------------------------+----+----------------------------+
 |  5 | Radio Microphone Line    | 10 | Unregulated Voltage In (+) |
 +----+--------------------------+----+----------------------------+
-
-\ :sup:`**` 
+\ :sup:`*` Pin **3/JP2** offers access to a dedicated indicator LED for accessory boards to give the opportunity of uniformity look between different accessory boards being used.
 
 Modification Points
 -------------------
