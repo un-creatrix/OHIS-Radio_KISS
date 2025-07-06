@@ -1,10 +1,3 @@
-.. toctree::
-   :hidden:
-   :maxdepth: 3
-
-   index
-   OHIS Compliance
-
 Usage of OHIS Radio KISS
 ========================
 What is the **OHIS Radio KISS Adapter**?
@@ -135,3 +128,10 @@ Breakable Points which are Either Cuttable/Solderable SMT traces or Removable 0Î
 +-----+-------------------------------------------------+
 | R17 | PTT SSR Isolator Cathode to OHIS PTT GND        |
 +-----+-------------------------------------------------+
+
+.. toctree::
+   :hidden:
+   :maxdepth: 3
+
+   index
+   OHIS Compliance
