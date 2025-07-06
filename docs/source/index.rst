@@ -19,7 +19,7 @@ Board Feautures
 Modification Points
 -------------------
 
-Breakable Points either cutable or removable 0Ω resistors
+Breakable Points which are Either Cutable/Solderable SMT traces or Removable 0Ω Resistors
 
 +-----+-------------------------------------------------+
 | JP3 | OHIS (-) to 5v Reg (-)                          |
