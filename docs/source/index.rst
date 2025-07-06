@@ -1,5 +1,6 @@
 .. toctree::
-   :maxdepth: 2
+   :hidden:
+   :maxdepth: 3
 
    index
    OHIS Compliance
