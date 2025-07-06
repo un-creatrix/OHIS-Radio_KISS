@@ -16,6 +16,5 @@ Previous Versions
    :hidden:
    :maxdepth: 2
 
-   designs
    index
    OHIS Compliance
