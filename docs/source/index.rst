@@ -1,22 +1,22 @@
-========================
+########################
 Usage of OHIS Radio KISS
-========================
+########################
 What is the **OHIS Radio KISS Adapter**?
 
 It is an adapter intended to bring any radio no matter its wiring standard or level from a Professional, Ham, DIY, Cheap Chinese, or Crystal with a Wire Hanging out of It; to be compatible with the OHIS connection Std. with very little to no effort other than looking up your radios needed connections and connecting said wires to the OHIS Radio KISS.
 
-------------
+************
 Installation
-------------
+************
 
 Usage
-^^^^^
+=====
 
 Wiring
-++++++
+======
 
 Supported Wire Gauges and Ferrules 
-::::::::::::::::::::::::::::::::::
+----------------------------------
 Stripped Wire - **14-20 AWG**
 Snug Ferrule Fit - **16 AWG**
 Ferrule Fit - **18-24 AWG**
@@ -24,7 +24,7 @@ Ferrule Fit - **18-24 AWG**
 Length Needed for Full Seat - **7.5-8.5 MM**
 
 Connection Points
-:::::::::::::::::
+-----------------
 
 Connection as Follows with Pins from Left to Right identified 1-5 with the OHIS Plug (RJ45) Oriented away from you.
 
@@ -63,12 +63,12 @@ Connection as Follows with Pins from Left to Right identified 1-5 with the OHIS 
 (J1)\ :sup:`OHIS Connector`
 ...........................
 
----------------
+**************
 Board Features
----------------
+**************
 
 Accessory Connection Pins
--------------------------
+=========================
 
 (JP1) \ :sup:`Pin Group #1` - OHIS Connection Nets
 ##################################################
@@ -107,7 +107,7 @@ Accessory Connection Pins
 .. tip:: Pin **3/JP2** offers access to a dedicated indicator LED for accessory boards to give the opportunity of a uniform look between different accessory boards being used.
 
 Modification Points
--------------------
+===================
 
 Breakable Points which are Either Cuttable/Solderable SMT traces or Removable 0Ω Resistors
 
