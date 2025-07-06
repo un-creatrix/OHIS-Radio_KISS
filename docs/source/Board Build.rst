@@ -11,3 +11,11 @@ Current Version
 *****************
 Previous Versions
 *****************
+
+.. toctree::
+   :hidden:
+   :maxdepth: 3
+
+   index
+   OHIS Compliance
+   Board Build
