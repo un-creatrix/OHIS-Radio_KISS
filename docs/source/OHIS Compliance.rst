@@ -27,7 +27,7 @@ OHIS Line Compliance
 .. toctree::
    :hidden:
    :maxdepth: 3
-
-   index
+   
    OHIS Compliance
-   Board Build
+   index
+   designs
