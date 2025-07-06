@@ -1,17 +1,19 @@
+########################
 Usage of OHIS Radio KISS
-========================
+########################
 What is the **OHIS Radio KISS Adapter**?
 
 It is an adapter intended to bring any radio no matter its wiring standard or level from a Professional, Ham, DIY, Cheap Chinese, or Crystal with a Wire Hanging out of It; to be compatible with the OHIS connection Std. with very little to no effort other than looking up your radios needed connections and connecting said wires to the OHIS Radio KISS.
 
+************
 Installation
-------------
+************
 
 Usage
-~~~~~
+=====
 
 Wiring
-~~~~~~
+======
 
 Supported Wire Gauges and Ferrules 
 ----------------------------------
@@ -69,7 +71,7 @@ Accessory Connection Pins
 =========================
 
 (JP1) \ :sup:`Pin Group #1` - OHIS Connection Nets
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+--------------------------------------------------
 
 +---+------------------------+----+-------------------------+
 |PIN| Connection Net         | PIN| Connection Net          |
@@ -87,7 +89,7 @@ Accessory Connection Pins
 .. tip:: Pin **9/JP1** is a dedicated power connection supplying 500ma on a resettable fuse for accessories any 5v (-) maybe used in conjunction with this point.
 
 (JP2)\ :sup:`Pin Group #2` - Radio Connection, Unregulated Power, and Accessory Indicator Light
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+-----------------------------------------------------------------------------------------------
 
 +----+--------------------------+----+----------------------------+
 | PIN| Connection Net           | PIN| Connection Net             |
@@ -108,6 +110,7 @@ Modification Points
 ===================
 
 Breakable Points which are Either Cuttable/Solderable SMT traces or Removable 0Ω Resistors
+------------------------------------------------------------------------------------------
 
 +-----+-------------------------------------------------+
 | CID | Connected Net #1 & Connected Net #2             |
