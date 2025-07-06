@@ -16,6 +16,6 @@ Previous Versions
    :hidden:
    :maxdepth: 3
 
+   designs
    index
    OHIS Compliance
-   Board Build
