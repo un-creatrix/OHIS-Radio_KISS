@@ -1,3 +1,8 @@
+.. toctree::
+   :maxdepth: 2
+
+   OHIS Compliance
+
 Usage of OHIS Radio KISS
 ========================
 What is the **OHIS Radio KISS Adapter**?
