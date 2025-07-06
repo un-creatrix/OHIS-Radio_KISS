@@ -14,6 +14,45 @@ Usage
 
 Wiring
 ------
+Supported Wire Gauges and Ferrules 
+``````````````````````````````````
+
+
+Connections
+```````````
+Connection as Follows with Pins from Left to Right identified 1-5 with the OHIS Plug (RJ45) Oriented away from you.
+
+(JP7)\ :sup:`TOP Connector`
+###########################
++---+------------+----------------------------------+
+|PIN| Connection | Notes                            |
++===+============+==================================+
+| 1 | Ground     | Universal Ground Bond (Not Req.) |
++---+------------+----------------------------------+
+| 2 | Positive   | 6 to 35 volts DC (+)             |
++---+------------+----------------------------------+
+| 3 | Negative   | 0v (-)                           |
++---+------------+----------------------------------+
+| 4 | PTT Ground | PTT Relay NO                     |
++---+------------+----------------------------------+
+| 5 | PTT Enable | PTT Relay NO                     |
++---+------------+----------------------------------+
+
+(JP8)\ :sup:`BOTTOM Connector`
+##############################
++---+-------------------+----------------------------------------------------------------------------------------------+
+|PIN| Connection        | Notes                                                                                        |
++===+===================+==============================================================================================+
+| 1 | Microphone Line   | 600Ωs expectation on mic connection with -45dBV +/- 3dBV line attenuation at any given point |
++---+-------------------+----------------------------------------------------------------------------------------------+
+| 2 | Microphone Ground | Ground side of Pin 1/JP8                                                                     |
++---+-------------------+----------------------------------------------------------------------------------------------+
+| 3 | Headphone Ground  | Ground side of Pin(s) 4/JP8 & 5/JP8                                                          |
++---+-------------------+----------------------------------------------------------------------------------------------+
+| 4 | Headphone Left    | 8-46Ωs with 0dBV to -10dBV attentuation at anygiven point max expected                       |
++---+-------------------+----------------------------------------------------------------------------------------------+
+| 5 | Headphone Right   | Echos Pin 4/JP8 Notes ^^                                                                     |
++---+-------------------+----------------------------------------------------------------------------------------------+
 
 ---------------
 Board Features
@@ -22,7 +61,8 @@ Board Features
 Accessory Connection Pins
 -------------------------
 
-**(JP1) Pin Group #1** - OHIS Connection Nets
+(JP1) \ :sup:`Pin Group #1` - OHIS Connection Nets
+##################################################
 
 +---+------------------------+----+-------------------------+
 |PIN| Connection Net         | PIN| Connection Net          |
@@ -39,7 +79,8 @@ Accessory Connection Pins
 +---+------------------------+----+-------------------------+
 .. tip:: Pin **9/JP1** is a dedicated power connection supplying 500ma on a resettable fuse for accessories any 5v (-) maybe used in conjunction with this point.
 
-**(JP2) Pin Group #2** - Radio Connection, Unregulated Power, and Accessory Indicator Light
+(JP2)\ :sup:`Pin Group #2` - Radio Connection, Unregulated Power, and Accessory Indicator Light
+###############################################################################################
 
 +----+--------------------------+----+----------------------------+
 | PIN| Connection Net           | PIN| Connection Net             |
@@ -48,7 +89,7 @@ Accessory Connection Pins
 +----+--------------------------+----+----------------------------+
 |  2 | Radio Headphone Right    |  7 | Radio PTT Enable           |
 +----+--------------------------+----+----------------------------+
-|  3 | Accessory Indicator LED   |  8 | Radio PTT Ground          |
+|  3 | Accessory Indicator LED  |  8 | Radio PTT Ground           |
 +----+--------------------------+----+----------------------------+
 |  4 | Radio Headphone Ground   |  9 | Unregulated Voltage In (+) |
 +----+--------------------------+----+----------------------------+
