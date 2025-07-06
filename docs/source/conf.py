@@ -4,10 +4,10 @@
 
 project = 'OHIS Radio KISS'
 copyright = '2025, un-Creatrix'
-author = 'Graziella'
+author = 'un-Creatrix'
 
-release = '0.1'
-version = '0.1.0'
+release = '0.0'
+version = '0.0.0'
 
 # -- General configuration
 
