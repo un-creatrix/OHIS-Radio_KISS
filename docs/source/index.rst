@@ -17,9 +17,11 @@ Wiring
 
 Supported Wire Gauges and Ferrules 
 ``````````````````````````````````
-Loose Stripped Wire - **14-20 AWG**
+Stripped Wire - **14-20 AWG**
 Snug Ferrule Fit - **16 AWG**
 Ferrule Fit - **18-24 AWG**
+
+Length Needed for Full Seat - **7.5-8.5 MM**
 
 Connections
 ```````````
