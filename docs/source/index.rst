@@ -10,26 +10,26 @@ Installation
 ------------
 
 Usage
------
+`````
 
 Wiring
-------
+``````
 
 Supported Wire Gauges and Ferrules 
-``````````````````````````````````
+::::::::::::::::::::::::::::::::::
 Stripped Wire - **14-20 AWG**
 Snug Ferrule Fit - **16 AWG**
 Ferrule Fit - **18-24 AWG**
 
 Length Needed for Full Seat - **7.5-8.5 MM**
 
-Connections
-```````````
+Connection Points
+:::::::::::::::::
 
 Connection as Follows with Pins from Left to Right identified 1-5 with the OHIS Plug (RJ45) Oriented away from you.
 
 (JP7)\ :sup:`TOP Connector`
-###########################
+...........................
 +---+------------+---------------------------------------+
 |PIN| Connection | Notes                                 |
 +===+============+=======================================+
@@ -45,7 +45,7 @@ Connection as Follows with Pins from Left to Right identified 1-5 with the OHIS 
 +---+------------+---------------------------------------+
 
 (JP8)\ :sup:`BOTTOM Connector`
-##############################
+..............................
 +---+-------------------+----------------------------------------------------------------------------------------------+
 |PIN| Connection        | Notes                                                                                        |
 +===+===================+==============================================================================================+
@@ -59,6 +59,9 @@ Connection as Follows with Pins from Left to Right identified 1-5 with the OHIS 
 +---+-------------------+----------------------------------------------------------------------------------------------+
 | 5 | Headphone Right   | Echos Pin 4/JP8 Notes ^^                                                                     |
 +---+-------------------+----------------------------------------------------------------------------------------------+
+
+(J1)\ :sup:`OHIS Connector`
+...........................
 
 ---------------
 Board Features
