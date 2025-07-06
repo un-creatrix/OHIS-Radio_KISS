@@ -1,7 +1,7 @@
 .. toctree::
    :maxdepth: 2
 
-   toctree/index
+   index
    OHIS Compliance
 
 Usage of OHIS Radio KISS
