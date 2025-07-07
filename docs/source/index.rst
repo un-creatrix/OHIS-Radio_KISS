@@ -68,6 +68,24 @@ PushDown Connection(s) as Follows with Pins from Left to Right identified 1-5 wi
 Board Features
 **************
 
+Indicator Lights
+================
+Located on the the top of the board is two LEDs serving to indicate the status of power being delivered down the OHIS connection
+
++------+----------------------------------------+
+| Blue | All if good and Power is connected     |
++------+----------------------------------------+
+| Red  | 1 Amp Resettable Fuse has been Tripped |
++------+----------------------------------------+
+
+Located on the Bottom of the Board under the OHIS Connection is the Activity LEDs
+
++------+--------------------------------------------------------------+
+| Blue | Accessory LED (Check Accessories Manual for Indicator Usage) |
++------+--------------------------------------------------------------+
+| Red  | OHIS PTT Enabled                                             |
++------+--------------------------------------------------------------+
+
 Accessory Connection Pins
 =========================
 
