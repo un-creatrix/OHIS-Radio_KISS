@@ -43,10 +43,10 @@ Changes and Modifications
 0.0.031 - Alpha
 ===============
 
-#################
-3D Printable Case
-#################
-A side project for when I get stuck and need to refresh my brain.
+################
+Case Build Notes
+################
+A side project for when I get stuck and need to refresh my brain, this is a 3D printable part meant to happily hold the board in place and protect from the perils of falls, squishes, or shorts.
 
 ***************
 Current Version
