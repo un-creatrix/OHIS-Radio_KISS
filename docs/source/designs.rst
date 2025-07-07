@@ -5,7 +5,6 @@ Board Build Notes
 ***************
 Current Version
 ***************
-.. hint:: Latest Updated Release of Board
 
 0.0.0?? - Release Canidate
 ==========================
@@ -54,3 +53,8 @@ Current Version
 
 0.0.008 - Alpha
 ===============
+
+*****************
+Previous Versions
+*****************
+
