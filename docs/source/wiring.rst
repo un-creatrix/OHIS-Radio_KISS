@@ -6,7 +6,7 @@ Examples of Wiring
 BTECH / Baofeng
 ***************
 
-BTECH UB-25x2 Second Generation
+BTECH UV-25x2 Second Generation
 ===============================
 
 *******
