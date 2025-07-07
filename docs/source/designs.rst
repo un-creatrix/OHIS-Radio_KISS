@@ -46,6 +46,11 @@ Changes and Modifications
 #################
 3D Printable Case
 #################
+A side project for when I get stuck and need to refresh my brain.
+
+***************
+Current Version
+***************
 
 0.0.008 - Alpha
 ===============
