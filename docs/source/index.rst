@@ -63,6 +63,7 @@ PushDown Connection(s) as Follows with Pins from Left to Right identified 1-5 wi
 
 (J1)\ :sup:`OHIS Connector`
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+.. seealso:: OHIS Compliance
 
 **************
 Board Features
