@@ -1,0 +1,51 @@
+#################
+Bill of Materials
+#################
+
++------+-------------------------------+-------------------------------+-------------------------------+----------------------------------------------------------------------+
+| Part | Value                         | Device                        | Footprint Name                | Detailed Description                                                 |
++======+===============================+===============================+===============================+======================================================================+
+| C1   | .1pF COG 50v                  | C_CHIP-0402(1005-METRIC)      | CAPC1005X60                   | Capacitor - Generic                                                  |
+| C2   | .22uF X7R 25v                 | C_CHIP-0402(1005-METRIC)      | CAPC1005X60                   | Capacitor - Generic                                                  |
+| C3   | 10uF X5R 6.3v                 | C_CHIP-0402(1005-METRIC)      | CAPC1005X60                   | Capacitor - Generic                                                  |
+| D1   | SD0805S040S1R0                | SD0805S040S1R0                | SD0805S040S1R0                | Schottky Diodes & Rectifiers SCHOTTKY DIODES                         |
+| D2   | CHIP-FLAT-B_1206              | CHIP-FLAT-B_1206              | LEDC3216X75N_FLAT-B           | Blue LED - Generic                                                   |
+| D4   | CHIP-FLAT-Y_1206              | CHIP-FLAT-Y_1206              | LEDC3216X75N_FLAT-Y           | Yellow LED - Generic                                                 |
+| D5   | CHIP-FLAT-Y_1206              | CHIP-FLAT-Y_1206              | LEDC3216X75N_FLAT-Y           | Yellow LED - Generic                                                 |
+| D6   | CHIP-FLAT-R_1206              | CHIP-FLAT-R_1206              | LEDC3216X75N_FLAT-R           | Red LED - Generic                                                    |
+| F1   | 0805L100WR                    | 0805L100WR                    | FUSC2114X180N                 | LITTELFUSE - 0805L100WR - Resettable Fuse, 6 VDC, 1 A, 1.95 A, 0.3 s |
+| F2   | PTS06039V016                  | PTS06039V016                  | FUSC1709X80N                  | Resettable Fuses - PPTC PTS0603 0.16A, 9V                            |
+| F3   | PTS06039V016                  | PTS06039V016                  | FUSC1709X80N                  | Resettable Fuses - PPTC PTS0603 0.16A, 9V                            |
+| J1   | 1734580-5                     | 1734580-5                     | 17345805                      | RJ45 Connector, Low Profile, Through Hole - Solder, Right Angle      |
+| J3   | 24881                         | 24881                         | 24881-SMT                     | SM M3x0.5 STANDOFF ON T&R 2MM                                        |
+| J4   | 24881                         | 24881                         | 24881-SMT                     | SM M3x0.5 STANDOFF ON T&R 2MM                                        |
+| J5   | 24881                         | 24881                         | 24881-SMT                     | SM M3x0.5 STANDOFF ON T&R 2MM                                        |
+| J6   | 24881                         | 24881                         | 24881-SMT                     | SM M3x0.5 STANDOFF ON T&R 2MM                                        |
+| J7   | 691412120005B                 | 691412120005B                 | 691412120005B                 | WR-TBL Serie 412B - 3.50 mm Screwless 45 deg Entry - 2.1 mm 2 Wires  |
+| J8   | 691412120005B                 | 691412120005B                 | 691412120005B                 | WR-TBL Serie 412B - 3.50 mm Screwless 45 deg Entry - 2.1 mm 2 Wires  |
+| JP1  | PINHD-2X5                     | PINHD-2X5                     | 2X05                          | Pin Header                                                           |
+| JP2  | PINHD-2X5                     | PINHD-2X5                     | 2X05                          | Pin Header                                                           |
+| JP3  | JUMPER-SMT_2_NC_TRACE_NO-SILK | JUMPER-SMT_2_NC_TRACE_NO-SILK | SMT-JUMPER_2_NC_TRACE_NO-SILK | Normally closed trace jumper                                         |
+| K1   | C224S                         | C224S                         | SOP254P680X210-4N             | Solid State Relays - PCB Mount COTO MOSFET - 1 FORM A, 3.5A, 40V MAX |
+| Q1   | MMBT3904VL                    | MMBT3904VL                    | SOT95P230X110-3N              | MMBT3904 - NPN switching transistor                                  |
+| R1   | 145ohm                        | R_CHIP-0402(1005-METRIC)      | RESC1005X40                   | Resistor Fixed - Generic                                             |
+| R2   | 140ohm                        | R_CHIP-0402(1005-METRIC)      | RESC1005X40                   | Resistor Fixed - Generic                                             |
+| R3   | 220 (230.75)ohm               | R_CHIP-0402(1005-METRIC)      | RESC1005X40                   | Resistor Fixed - Generic                                             |
+| R4   | 220 (230.75)ohm               | R_CHIP-0402(1005-METRIC)      | RESC1005X40                   | Resistor Fixed - Generic                                             |
+| R5   | 390 (381.36)ohm               | R_CHIP-0402(1005-METRIC)      | RESC1005X40                   | Resistor Fixed - Generic                                             |
+| R6   | 2.2ohm                        | R_CHIP-0402(1005-METRIC)      | RESC1005X40                   | Resistor Fixed - Generic                                             |
+| R7   | 1k ohm                        | R_CHIP-0402(1005-METRIC)      | RESC1005X40                   | Resistor Fixed - Generic                                             |
+| R8   | 640ohm                        | R_CHIP-0402(1005-METRIC)      | RESC1005X40                   | Resistor Fixed - Generic                                             |
+| R9   | 140ohm                        | R_CHIP-0402(1005-METRIC)      | RESC1005X40                   | Resistor Fixed - Generic                                             |
+| R10  | 145ohm                        | R_CHIP-0402(1005-METRIC)      | RESC1005X40                   | Resistor Fixed - Generic                                             |
+| R11  | 0 ohm                         | R_CHIP-0805(2012-METRIC)      | RESC2012X65                   | Resistor Fixed - Generic                                             |
+| R12  | 0 ohm                         | R_CHIP-0805(2012-METRIC)      | RESC2012X65                   | Resistor Fixed - Generic                                             |
+| R13  | 0 ohm                         | R_CHIP-0805(2012-METRIC)      | RESC2012X65                   | Resistor Fixed - Generic                                             |
+| R14  | 0 ohm                         | R_CHIP-0805(2012-METRIC)      | RESC2012X65                   | Resistor Fixed - Generic                                             |
+| R15  | 0 ohm                         | R_CHIP-0805(2012-METRIC)      | RESC2012X65                   | Resistor Fixed - Generic                                             |
+| R16  | 0 ohm                         | R_CHIP-0805(2012-METRIC)      | RESC2012X65                   | Resistor Fixed - Generic                                             |
+| R17  | 0 ohm                         | R_CHIP-0805(2012-METRIC)      | RESC2012X65                   | Resistor Fixed - Generic                                             |
+| S1   |                               | 450404015514                  | 450404015514                  | WS-SLSU Mini Slide Switch, Same Side Connection Side Push 6.7x2.7 mm |
+| S2   |                               | 450404015514                  | 450404015514                  | WS-SLSU Mini Slide Switch, Same Side Connection Side Push 6.7x2.7 mm |
+| U1   | LM7805MP/NOPBDCY4_TEX         | LM7805MP/NOPBDCY4_TEX         | DCY4_TEX                      | 1.5-A, 30-V, linear voltage regulator                                |
++------+-------------------------------+-------------------------------+-------------------------------+----------------------------------------------------------------------+
