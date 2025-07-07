@@ -7,8 +7,8 @@ Current Version
 ***************
 .. hint:: Latest Updated Release of Board
 
-0.0.0?? - RC
-============
+0.0.0?? - Release Canidate
+==========================
 
 Additions
 ---------
