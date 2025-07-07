@@ -31,10 +31,9 @@ html_theme_options = {
     'prev_next_buttons_location': 'bottom',
     'style_external_links': False,
     'vcs_pageview_mode': 'blob',
-    'style_nav_header_background': '#FF7BAC',
+    'style_nav_header_background': 'FF7BAC',
     'flyout_display': 'hidden',
     'version_selector': True,
-    'language_selector': False,
     # Toc options
     'collapse_navigation': False,
     'sticky_navigation': True,
