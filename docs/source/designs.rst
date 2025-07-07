@@ -42,3 +42,10 @@ Changes and Modifications
 
 0.0.031 - Alpha
 ===============
+
+#################
+3D Printable Case
+#################
+
+0.0.008 - Alpha
+===============
