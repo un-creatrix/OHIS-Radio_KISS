@@ -73,11 +73,11 @@ Indicator Lights
 ================
 Located on the the top of the board is two LEDs serving to indicate the status of power being delivered down the OHIS connection
 
-+------+----------------------------------------+
-| Blue | All if good and Power is connected     |
-+------+----------------------------------------+
-| Red  | 1 Amp Resettable Fuse has been Tripped |
-+------+----------------------------------------+
++------+------------------------------------------------------------+
+| Blue | All if good and Power is connected                         |
++------+------------------------------------------------------------+
+| Red  | 1 Amp Resettable Fuse has been Tripped for OHIS 5v (+) Net |
++------+------------------------------------------------------------+
 
 Located on the Bottom of the Board under the OHIS Connection is the Activity LEDs
 
