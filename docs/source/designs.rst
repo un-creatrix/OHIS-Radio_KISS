@@ -12,12 +12,16 @@ Current Version
 Additions
 ---------
 * Accessory LED Connection Exposed to Pin Header
+* Addition of Silkscreen Graphics
+* Placed QR Marker for Boards Tracking
+
 
 Changes and Modifications
 -------------------------
 * JP3 Added jump connection between 5v (-) Acc. & 5v (-) Reg. 
 * LED connection polarity fixed
 * Zenner Diode Polarity Fixed
+* Swapping *F1* from componenet 0805L100WR-Little Fuse -> PTS08056V050-Eaton
 
 *****************
 Previous Versions
