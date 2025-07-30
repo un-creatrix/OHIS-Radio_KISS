@@ -15,6 +15,7 @@ Usage
 Settings to be Set
 ==================
 To change the defaultly enabled feature you have to cut the link in between the filled in arrows "▶︎◀︎", and solder a bridge accross the area between the open arrows "><".
+
 +-----+------------+---------+-----------+
 |  ID | Function   | Enabled | Available |
 +=====+============+=========+===========+
