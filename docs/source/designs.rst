@@ -14,7 +14,7 @@ Additions
 * Accessory LED Connection Exposed to Pin Header
 * Addition of Silkscreen Graphics
 * Placed QR Marker for Boards Tracking
-
+* Switches Replaced with SMT Jumpers to reduce cost on parts & increase reliability
 
 Changes and Modifications
 -------------------------
