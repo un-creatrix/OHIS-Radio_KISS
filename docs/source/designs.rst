@@ -6,7 +6,7 @@ Board Build Notes
 Current Version
 ***************
 
-0.0.0?? - Release Canidate
+0.0.069 - Release Canidate
 ==========================
 
 Additions
@@ -22,6 +22,19 @@ Changes and Modifications
 * LED connection polarity fixed
 * Zenner Diode Polarity Fixed
 * Swapping *F1* from componenet 0805L100WR-Little Fuse -> PTS08056V050-Eaton
+
+***************
+Updates to Come
+***************
+
+? - Currently in Design Process
+===============================
+
+Additions
+---------
+
+Changes and Modifications
+-------------------------
 
 *****************
 Previous Versions
