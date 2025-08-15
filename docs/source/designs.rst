@@ -6,7 +6,7 @@ Board Build Notes
 Current Version
 ***************
 
-0.0.069 - Release Canidate
+0.0.069 - Release Candidate
 ==========================
 
 Additions
