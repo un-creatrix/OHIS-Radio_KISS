@@ -7,8 +7,8 @@ copyright = '2025, un-Creatrix'
 author = 'un-Creatrix'
 github_url = 'https://github.com/un-creatrix/OHIS-Radio_KISS'
 
-release = '0.0'
-version = '0.0.0'
+release = '1.0.72'
+version = '1.0.72'
 
 # -- General configuration
 
@@ -31,7 +31,7 @@ html_theme_options = {
     'prev_next_buttons_location': 'bottom',
     'style_external_links': False,
     'vcs_pageview_mode': 'blob',
-    'style_nav_header_background': '#FF7BAC',
+    'style_nav_header_background': '#FF1D8D',
     # Toc options
     'collapse_navigation': False,
     'sticky_navigation': True,

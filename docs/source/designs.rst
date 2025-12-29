@@ -6,8 +6,49 @@ Board Build Notes
 Current Version
 ***************
 
+1.0.072 - Product Launch
+========================
+
+Additions
+---------
+* 
+
+Changes and Modifications
+-------------------------
+* 
+
+***************
+Updates to Come
+***************
+
+##.0.000 - Currently in Design Process
+======================================
+
+Additions
+---------
+*
+
+Changes and Modifications
+-------------------------
+*
+
+00.0.### - Currently in Design Process
+======================================
+
+Additions
+---------
+*
+
+Changes and Modifications
+-------------------------
+*
+
+*****************
+Previous Versions
+*****************
+
 0.0.069 - Release Candidate
-==========================
+===========================
 
 Additions
 ---------
@@ -22,23 +63,6 @@ Changes and Modifications
 * LED connection polarity fixed
 * Zenner Diode Polarity Fixed
 * Swapping *F1* from componenet 0805L100WR-Little Fuse -> PTS08056V050-Eaton
-
-***************
-Updates to Come
-***************
-
-? - Currently in Design Process
-===============================
-
-Additions
----------
-
-Changes and Modifications
--------------------------
-
-*****************
-Previous Versions
-*****************
 
 0.0.055 - Beta
 ==============
