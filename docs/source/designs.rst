@@ -29,17 +29,6 @@ Changes and Modifications
 -------------------------
 *
 
-00.0.### - Currently in Design Process
-======================================
-
-Additions
----------
-*
-
-Changes and Modifications
--------------------------
-*
-
 *****************
 Previous Versions
 *****************
