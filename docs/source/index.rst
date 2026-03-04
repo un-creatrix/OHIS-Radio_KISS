@@ -39,39 +39,39 @@ Length Needed for Full Seat - **7.5-8.5 MM**
 
 Connection Points
 -----------------
-PushDown Connection(s) as Follows with Pins from Left to Right identified 1-5 with the OHIS Plug (RJ45) Oriented away from you.
+PushDown Connection(s) as Follows with Pins from Left to Right identified 1-5 with the OHIS Plug (RJ45) Oriented towards you.
 
-(JP7)\ :sup:`TOP Connector`
-^^^^^^^^^^^^^^^^^^^^^^^^^^^
-+---+------------+---------------------------------------+
-|PIN| Connection | Notes                                 |
-+===+============+=======================================+
-| 1 | Ground     | Universal Ground Bond (Not Req.)      |
-+---+------------+---------------------------------------+
-| 2 | Positive   | 6 to 35 volts DC (+) ``10 Watt Req.`` |
-+---+------------+---------------------------------------+
-| 3 | Negative   | 0v (-)                                |
-+---+------------+---------------------------------------+
-| 4 | PTT Ground | PTT Relay NO                          |
-+---+------------+---------------------------------------+
-| 5 | PTT Enable | PTT Relay NO                          |
-+---+------------+---------------------------------------+
-
-(JP8)\ :sup:`BOTTOM Connector`
+(JP8)\ :sup:`TOP Connector`
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 +---+-------------------+----------------------------------------------------------------------------------------------+
 |PIN| Connection        | Notes                                                                                        |
 +===+===================+==============================================================================================+
-| 1 | Microphone Line   | 600Ωs expectation on mic connection with -45dBV +/- 3dBV line attenuation at any given point |
+| 1 | Headphone Right   | 8-46Ωs with 0dBV to -10dBV attentuation at anygiven point max expected                       |
 +---+-------------------+----------------------------------------------------------------------------------------------+
-| 2 | Microphone Ground | Ground side of Pin 1/JP8                                                                     |
+| 2 | Headphone Left    | 8-46Ωs with 0dBV to -10dBV attentuation at anygiven point max expected                       |
 +---+-------------------+----------------------------------------------------------------------------------------------+
 | 3 | Headphone Ground  | Ground side of Pin(s) 4/JP8 & 5/JP8                                                          |
 +---+-------------------+----------------------------------------------------------------------------------------------+
-| 4 | Headphone Left    | 8-46Ωs with 0dBV to -10dBV attentuation at anygiven point max expected                       |
+| 4 | Microphone Ground | Ground side of Pin 1/JP8                                                                     |
 +---+-------------------+----------------------------------------------------------------------------------------------+
-| 5 | Headphone Right   | Echos Pin 4/JP8 Notes ^^                                                                     |
+| 5 | Microphone Line   | 600Ωs expectation on mic connection with -45dBV +/- 3dBV line attenuation at any given point |
 +---+-------------------+----------------------------------------------------------------------------------------------+
+
+(JP7)\ :sup:`BOTTOM Connector`
+^^^^^^^^^^^^^^^^^^^^^^^^^^^
++---+------------+---------------------------------------+
+|PIN| Connection | Notes                                 |
++===+============+=======================================+
+| 1 | PTT Enable | PTT Relay NO                          |
++---+------------+---------------------------------------+
+| 2 | PTT Ground | PTT Relay NO                          |
++---+------------+---------------------------------------+
+| 3 | Negative   | 0v (-)                                |
++---+------------+---------------------------------------+
+| 4 | Positive   | 6 to 35 volts DC (+) ``1 Watt Req.``  |
++---+------------+---------------------------------------+
+| 5 | Ground     | Universal Ground Bond (Not Req.)      |
++---+------------+---------------------------------------+
 
 (J1)\ :sup:`OHIS Connector`
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^
@@ -93,11 +93,11 @@ Located on the the top of the board is two LEDs serving to indicate the status o
 
 Located on the Bottom of the Board under the OHIS Connection is the Activity LEDs
 
-+------+--------------------------------------------------------------+
-| Blue | Accessory LED (Check Accessories Manual for Indicator Usage) |
-+------+--------------------------------------------------------------+
-| Red  | OHIS PTT Enabled                                             |
-+------+--------------------------------------------------------------+
++---------+--------------------------------------------------------------+
+| Orange  | Accessory LED (Check Accessories Manual for Indicator Usage) |
++---------+--------------------------------------------------------------+
+| Orange  | OHIS PTT Enabled                                             |
++---------+--------------------------------------------------------------+
 
 Accessory Connection Pins
 =========================
