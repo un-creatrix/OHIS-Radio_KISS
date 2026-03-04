@@ -8,14 +8,11 @@ Current Version
 
 1.0.072 - Product Launch
 ========================
-
-Additions
----------
-* 
+`0.0.69 accepted as Launch Design`
 
 Changes and Modifications
 -------------------------
-* 
+* (F3) Fuse replaced with 500ma fuse from the origional 1000ma fuse, trip current was to high with sustained draw exceding volatge regulator it is meant to protect.
 
 ***************
 Updates to Come
