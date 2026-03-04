@@ -23,11 +23,11 @@ Updates to Come
 
 Additions
 ---------
-*
+* Complete Layer Ground
 
 Changes and Modifications
 -------------------------
-*
+* Accessorie LED to white from orange
 
 *****************
 Previous Versions
