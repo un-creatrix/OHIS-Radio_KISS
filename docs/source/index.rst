@@ -5,6 +5,13 @@ What is the **OHIS Radio KISS Adapter**?
 
 It is an adapter intended to bring any radio no matter its wiring standard or level from a Professional, Ham, DIY, Cheap Chinese, or Crystal with a Wire Hanging out of It; to be compatible with the OHIS connection Std. with very little to no effort other than looking up your radios needed connections and connecting said wires to the OHIS Radio KISS.
 
+********************
+PCB & Assembly Files
+********************
+(Online Fusion Files)[https://]
+
+:sup:`Discrepencies may exist between published BOM in ReadTheDocs & BOM in Online Fusion Public, ReadTheDoc will match the manufactured boards where Fusion will match all calculations.'
+
 ************
 Installation
 ************
